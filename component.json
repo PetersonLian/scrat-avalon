@@ -1,0 +1,7 @@
+{
+  "version": "1.5.5",
+  "name": "avalon",
+  "repo": "PetersonLian/scrat-avalon",
+  "description": "a scrat-installable plugin of avalon",
+  "main": "avalon.mobile.shum.min.js"
+}
